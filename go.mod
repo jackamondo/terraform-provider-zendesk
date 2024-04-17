@@ -1,4 +1,4 @@
-module github.com/nukosuke/terraform-provider-zendesk
+module github.com/appamondo/terraform-provider-zendesk
 
 go 1.19
 
